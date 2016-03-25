@@ -3,7 +3,7 @@ loadLanguagePack({
     'The current window has unsaved changes.': 'La ventana actual tiene cambios sin guardar.',
     'Are you sure you want to delete this form ?': '¿Seguro que quiere eliminar este formulario?',
     'Are you sure you want to delete this subject ?': '¿Seguro que quiere eliminar este tema?',
-    'Are you sure you want to delete this question ?' : '¿Seguro que quiere eliminar esta cuestión?',
+    'Are you sure you want to delete this question ?' : '¿Seguro que quiere eliminar esta pregunta?',
     'Copy' : 'Copiar',
     'File upload error.': 'Error de carga de fichero',
     'Are you sure you want to delete this internship ?' : '¿Seguro que quiere eliminar esta práctica?',
