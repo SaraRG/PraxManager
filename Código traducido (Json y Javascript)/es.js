@@ -1,4 +1,4 @@
-// romanian translation
+// spanish translation
 loadLanguagePack({
     'The current window has unsaved changes.': 'La ventana actual tiene cambios sin guardar.',
     'Are you sure you want to delete this form ?': '¿Seguro que quiere eliminar este formulario?',
